@@ -18,6 +18,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             HeadlinesTheme {
                 //bharath
+                //chaitanya
                 // A surface container using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
